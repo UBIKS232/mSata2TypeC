@@ -1,7 +1,7 @@
 # mSata2TypeC
 
 ### 1. Design Tool
-[JLC EDA](https://www.jlcpcb.com/eda)(嘉立创EDA)
+[JLC EDA](https://lceda.cn/)(嘉立创EDA)
 
 ### 2. BOM(Main Parts)
     ASM1153E(SATAtoUSB Bridge)
